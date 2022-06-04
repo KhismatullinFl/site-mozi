@@ -2825,6 +2825,19 @@ button.swiper-pagination-bullet {
   }
 }
 
+@media (max-width: 991.98px) and (max-width: 767.98px) {
+  .joins__btn {
+    margin-top: 40px;
+    width: 100%;
+  }
+}
+
+@media (max-width: 991.98px) and (max-width: 479.98px) {
+  .joins__btn {
+    margin-top: 30px;
+  }
+}
+
 @media (max-width: 767.98px) {
   .container {
     max-width: 740px;
@@ -3313,10 +3326,6 @@ button.swiper-pagination-bullet {
   }
 
   .joins__list {
-    margin-top: 40px;
-  }
-
-  .joins__btn {
     margin-top: 40px;
   }
 
@@ -3848,10 +3857,6 @@ button.swiper-pagination-bullet {
   }
 
   .joins__list {
-    margin-top: 30px;
-  }
-
-  .joins__btn {
     margin-top: 30px;
   }
 
